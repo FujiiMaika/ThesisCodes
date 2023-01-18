@@ -31,8 +31,10 @@
     
   インタプリタを実行する際、プログラムを標準入力せず `test-suite/check ./interpreter n` とするとプログラム例を一気に実行できます。
     
+    
 - typesystem/
   - algebraic.agda: eval01-a のインタプリタから導出した型システムの証明
+  
   
 - virtual-machine/
 
