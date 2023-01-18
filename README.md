@@ -3,6 +3,7 @@
 - interpreter/
   - eval01-a/: 代数的エフェクトハンドラのためのCPSインタプリタ (図3.2)
   - eval01-b/: 代数的エフェクトハンドラのためのCPSインタプリタ (図3.3)
+  - h-defunc/: eval01-a と eval01-b のそれぞれの型 h を非関数化したインタプリタ (図3.4)
   
   コンパイルするためには [OCamlMakefile](http://www.ocaml.info/software.html#build_tools) が必要です。
   
